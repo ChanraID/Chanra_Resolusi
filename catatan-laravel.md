@@ -1,0 +1,10 @@
+ceritanya 
+ini 
+adalah 
+catatan 
+dari 
+AI 
+hanya 
+untuk 
+contoh 
+saja
