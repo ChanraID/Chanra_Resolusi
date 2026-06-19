@@ -10,4 +10,4 @@ contoh
 saja
 
 
-Duh Ngentot pUSING BANGET DEH ANJINGFGGGGGG
+Duh Ngentot pUSING BANGET DEH 
