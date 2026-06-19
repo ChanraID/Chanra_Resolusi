@@ -8,3 +8,6 @@ hanya
 untuk 
 contoh 
 saja
+
+
+Duh Ngentot pUSING BANGET DEH ANJINGFGGGGGG
