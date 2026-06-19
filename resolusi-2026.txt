@@ -3,3 +3,4 @@ Chanra Resolusi 2026
 - Membuat minimal 3 portofolio
 - Bisa melunasi hutang-hutang tanpa harus hutang lagi
 - Menguasai Laravel dan beberapa framework lainnya
+- Buat minimal 3 project menggunakan framework
