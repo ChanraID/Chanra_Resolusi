@@ -1,5 +1,0 @@
-Chanra Resolusi 2026
-- Sudah bisa freelance Coding
-- Bisa melunasi hutang-hutang tanpa harus hutang lagi
-- Buat minimal 3 project menggunakan framework
-- Udah bisa Laravel, NodeJs, SQL dan sebaginya
